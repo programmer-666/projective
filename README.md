@@ -1,4 +1,4 @@
 # projective
-[![Python application](https://github.com/programmer-666/projective/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/programmer-666/projective/actions/workflows/python-app.yml)
+[![Python Apllication](https://github.com/programmer-666/projective/actions/workflows/python-app.yml/badge.svg)](https://github.com/programmer-666/projective/actions/workflows/python-app.yml)
 
 Project template.
