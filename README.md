@@ -5,4 +5,5 @@
 
 ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/programmer-666/projective?style=for-the-badge)
 
+
 Project template.
