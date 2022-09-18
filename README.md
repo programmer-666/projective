@@ -10,3 +10,5 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/programmer-666/projective?color=%23fffbcb&style=for-the-badge)
 
 ![GitHub issues](https://img.shields.io/github/issues/programmer-666/projective?style=for-the-badge)
+
+![GitHub](https://img.shields.io/github/license/programmer-666/projective?style=for-the-badge)
