@@ -5,5 +5,6 @@
 
 ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/programmer-666/projective?style=for-the-badge)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/programmer-666/projective?style=for-the-badge)
 
 Project template.
