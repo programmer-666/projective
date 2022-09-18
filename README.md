@@ -7,4 +7,5 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/programmer-666/projective?style=for-the-badge)
 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/programmer-666/projective?color=%23fffbcb&style=for-the-badge)
 Project template.
